@@ -1,3 +1,3 @@
-export default function Page() {
-  return <main className="p-6">CRM funcionando</main>;
+export default function Home() {
+  return <main><h1>Mi CRM</h1></main>;
 }
